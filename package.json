@@ -22,7 +22,7 @@
     "@nuxtjs/workbox": "^3.0.0-beta.16",
     "@vue/cli-shared-utils": "^4.1.2",
     "boxen": "^4.2.0",
-    "browserslist": "^4.8.2",
+    "browserslist": "^4.8.3",
     "copy-webpack-plugin": "^5.1.1",
     "core-js": "^2.6.11",
     "css-loader": "^3.4.0",
