@@ -23,7 +23,7 @@
     "@vue/cli-shared-utils": "^4.1.2",
     "aws-sdk": "^2.606.0",
     "boxen": "^4.2.0",
-    "browserslist": "^4.8.3",
+    "browserslist": "^4.8.4",
     "copy-webpack-plugin": "^5.1.1",
     "core-js": "^2.6.11",
     "css-loader": "^3.4.2",
