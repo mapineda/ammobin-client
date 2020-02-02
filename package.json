@@ -18,7 +18,7 @@
     "@nuxtjs/icon": "^3.0.0-beta.16",
     "@nuxtjs/manifest": "^3.0.0-beta.16",
     "@nuxtjs/meta": "^3.0.0-beta.16",
-    "@nuxtjs/pwa": "^3.0.0-beta.16",
+    "@nuxtjs/pwa": "^3.0.0-beta.20",
     "@nuxtjs/workbox": "^3.0.0-beta.16",
     "@vue/cli-shared-utils": "^4.1.2",
     "aws-sdk": "^2.606.0",
