@@ -28,7 +28,7 @@
     "core-js": "^2.6.11",
     "css-loader": "^3.4.2",
     "es6-promise": "^4.2.8",
-    "husky": "^4.0.2",
+    "husky": "^4.2.3",
     "node-fetch": "^2.5.0",
     "pretty-quick": "^2.0.1",
     "purecss": "^1.0.1",
