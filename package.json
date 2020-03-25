@@ -21,7 +21,7 @@
     "@nuxtjs/pwa": "^3.0.0-beta.16",
     "@nuxtjs/workbox": "^3.0.0-beta.16",
     "@vue/cli-shared-utils": "^4.1.2",
-    "aws-sdk": "^2.606.0",
+    "aws-sdk": "^2.646.0",
     "boxen": "^4.2.0",
     "browserslist": "^4.8.3",
     "copy-webpack-plugin": "^5.1.1",
